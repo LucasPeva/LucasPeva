@@ -1,17 +1,23 @@
 # Bem vindo ao meu perfil da Github!
 Sou Lucas S. Pevarello :wave:
 
-## :books: Minha formação:
+## :books: Minha formação
 - Curso de TI Administrativo na FATORE (2022-2024)
 - Graduação em Analise e Desenvolvimento de Sistemas no SENAI (2024-2025)
 
-## 🏛️ Cargos / Experiência profissional:
+## 🏛️ Cargos / Experiência profissional
 - Nennhuma 😔 (Ainda!)
 
-## :telephone_receiver: Entre em contato:
+## :telephone_receiver: Entre em contato
 - Email: <lucas.pevarello59@gmail.com>
 
-## :gear: Tech stack:
+## GitHub Stats
+
+![LucasPeva](https://github-readme-stats.vercel.app/api?username=LucasPeva&theme=react&show_icons=true)
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPeva&layout=pie&langs_count=15)](https://github.com/LucasPeva/github-readme-stats)
+
+## :gear: Tech stack
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -64,4 +70,4 @@ Sou Lucas S. Pevarello :wave:
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Finanças
-![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff "Para finanças e pagamentos")
+![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff "API de finanças e pagamentos")
