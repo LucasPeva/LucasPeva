@@ -15,9 +15,10 @@ Sou Lucas S. Pevarello :wave:
 
 ![LucasPeva](https://github-readme-stats.vercel.app/api?username=LucasPeva&theme=react&show_icons=true)
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPeva&layout=pie&langs_count=15)](https://github.com/LucasPeva/github-readme-stats)
-
 ## :gear: Tech stack
+
+<details> 
+    <summary> Clique para ver </summary>
 
 ### Linguagens
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -25,6 +26,9 @@ Sou Lucas S. Pevarello :wave:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white "CSS já é demais")
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Bibliotecas / Plataformas / Frameworks
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -34,6 +38,7 @@ Sou Lucas S. Pevarello :wave:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### Cloud / SaaS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -71,3 +76,5 @@ Sou Lucas S. Pevarello :wave:
 
 ### Finanças
 ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff "API de finanças e pagamentos")
+
+</details>
