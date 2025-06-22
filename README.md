@@ -1,12 +1,21 @@
 # Bem vindo ao meu perfil da Github!
 Sou Lucas S. Pevarello :wave:
 
-## :books: Minha formação
-- Curso de TI Administrativo na FATORE (2022-2024)
-- Graduação em Analise e Desenvolvimento de Sistemas no SENAI (2024-2025)
+Gosto de desenvolvimento de backend, softwares e jogos.
+
+## :books: Minhas formações
+### Curso de TI Administrativo na FATORE (2022 - 2024)
+
+Aprendi como administrar times e pessoas, além de informática básica, como manutenção de computadores para uso pessoal e corporativo. Também aprendi como utilizar o pacote Office (Word, Excel e PowerPoint) de maneira eficiente para montar reuniões, documentos impressos e tabelas eficientes.
+
+### Técnologo em Analise e Desenvolvimento de Sistemas no SENAI (2024 - 2026)
+
+Na Faculdade de Técnologia SENAI Félix Guisard, tive conhecimentos completos sobre TI, por exemplo, a fundação e funcionamento sistemas de redes de computadores, desenvolvimento em todas as áreas (frontend, backend, mobile e software), como programar CLPs industriais, desenvolver IHMs e sistemas de ERP, entre outros conhecimentos.
 
 ## 🏛️ Cargos / Experiência profissional
-- Nennhuma 😔 (Ainda!)
+### Estagiário de educação e TI (Março/2025 - presente)
+
+Atuo como educador estagiário na Prepara Cursos Profissionalizantes, onde auxilio os alunos em sala com dúvidas, entro em contato com alunos e responsáveis sobre aulas e agendamentos, organizo turmas e cuido da manutenção do ambiente, seja na limpeza ou verificação dos computadores.
 
 ## :telephone_receiver: Entre em contato
 - Email: <lucas.pevarello59@gmail.com>
