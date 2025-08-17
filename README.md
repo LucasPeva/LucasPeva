@@ -22,7 +22,7 @@ Atuo como educador estagiário na Prepara Cursos Profissionalizantes, onde auxil
 
 ## GitHub Stats
 
-![LucasPeva](https://github-readme-stats.vercel.app/api?username=LucasPeva&theme=react&show_icons=true)
+<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
 
 ## :gear: Tech stack
 
