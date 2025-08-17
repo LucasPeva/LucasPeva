@@ -22,7 +22,7 @@ Atuo como educador estagiário na Prepara Cursos Profissionalizantes, onde auxil
 
 ## GitHub Stats
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
+![Metrics](/github-metrics.svg)
 
 ## :gear: Tech stack
 
